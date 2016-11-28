@@ -1,0 +1,4 @@
+Mexicana:Mexico:CDMX:Juarez
+Zapopan:Mexico:Jalisco:Zapopan Grande
+Aeropuerto de Puebla:Mexico:Puebla:Quetzala
+Tokyo:Japon:Kagaima:Ozaka

@@ -1,0 +1,11 @@
+201611271020B-Tokyo-Mexicana-12 diciembre-13:00-13 diciembre-12:00-14000
+201611271021A-Jalisco-Mexicana-12 diciembre-13:00-13 diciembre-14:00-$900
+201611271810B-Aeropuerto de Puebla-Mexicana-1 diciembre-12:00-2 dicembre-13:00-700
+201611271819B-Zapopan-Aeropuerto de Puebla-12 dic-12:00-13 dic-14:00-14000
+201611271902B-Mexicana-Aeropuerto de Puebla-12 dic-12:00-12:00-13 dic-1000
+201611271904A-Zapopan-Aeropuerto de Puebla-12 enero-13:00-13 enero-21:00-1,000
+201611271905A-Zapopan-Mexicana-12 dic-14:00-13 dic-1:00-1,300
+201611271909A-Tokyo-Mexicana-12 dic-13:00-14 dic-15:00-1,000
+201611271911A-Tokyo-Zapopan-13 feb-14:00-15 feb-13:00-1400
+201611271913A-Zapopan-Mexicana-24 dic-1:00-25 dic-13:00-900
+201611280619B-Tokyo-Mexicana-12 dic-13:00-14 dic-15:00-1,400
